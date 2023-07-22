@@ -1,3 +1,3 @@
 # MineSweeper
-<p>Course assignments of BUPT __Introduction to Computing and Programming Course Design.__ </p>
-<p>This course design has two versions which are __Console version__ and __Graphical version.__ </p>
+Course assignments of BUPT *Introduction to Computing and Programming Course Design.*<br>
+This course design has two versions which are **Console version** and **Graphical version.** <br>
